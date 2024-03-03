@@ -1,0 +1,15 @@
+li {
+    cursor: pointer;
+
+    :hover {
+        background-color: #ddd;
+    }
+
+    
+}
+
+.checked {
+    background: #888;
+    color: #fff;
+    text-decoration: line-through;
+}
